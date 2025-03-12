@@ -2,8 +2,9 @@
 ![ascii-art (4)](https://github.com/user-attachments/assets/6253d498-8f5f-4d0d-b842-36782971dd02)
 
 ### Hi there 👋
-
-<!--
+- 🔭 I’m currently working in html, css, javascript, sass, tailwind, bootstrap, node.js, gulp and npm in e-commerce
+- 🌱 I’m currently learning react
+  
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,gulp,nodejs,mysql,npm,sass,flask,heroku,jquery,bootstrap,azure,react,bootstrap,cloudflare,fediverse,py,webstorm,github,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,gulp,nodejs,mysql,npm,sass,flask,heroku,jquery,bootstrap,azure,react,bootstrap,cloudflare,fediverse,py,webstorm,github,&perline=7)](https://skillicons.dev)
