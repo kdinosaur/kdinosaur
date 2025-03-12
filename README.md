@@ -4,7 +4,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working in html, css, javascript, sass, tailwind, bootstrap, node.js, gulp and npm in e-commerce
 - 🌱 I’m currently learning react
-  
+<!--
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
