@@ -2,8 +2,10 @@
 ![ascii-art (4)](https://github.com/user-attachments/assets/6253d498-8f5f-4d0d-b842-36782971dd02)
 
 ### Hi there 👋
-- 🔭 I’m currently working in html, css, javascript, sass, tailwind, bootstrap, node.js, gulp and npm in e-commerce
+- 🔭 I’m currently working in html, css, javascript, sass, tailwind, bootstrap, node.js, gulp and npm
 - 🌱 I’m currently learning react
+- ![image](https://github.com/user-attachments/assets/8eb91508-019a-478b-8c0b-e43313f16766) Ecommerce sites are my focus
+
 <!--
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
