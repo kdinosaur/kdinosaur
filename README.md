@@ -1,5 +1,5 @@
 
-[asci![ascii-art (4)](https://github.com/user-attachments/assets/783634e6-5785-4835-a93b-301a130c12a4)
+[ascii-art (4)](https://github.com/user-attachments/assets/783634e6-5785-4835-a93b-301a130c12a4)
 
 ### Hi there 👋
 
