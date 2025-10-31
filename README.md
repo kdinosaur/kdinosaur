@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning server-side javascript
 - 🤔 I’m interested in data engineering and previously worked in python and SQL
 - 💬 Ask me about about building your website, e-commerce store, react app or general tech questions
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cee3e8a4-900d-4045-8885-df36f630ea76" />
+- 📚 I enjoy reading, mostly non-fiction, westerns, and dystopian fiction 
  
 <!--
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
