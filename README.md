@@ -1,10 +1,14 @@
 
-![ascii-art (4)](https://github.com/user-attachments/assets/6253d498-8f5f-4d0d-b842-36782971dd02)
+<!--![ascii-art (4)](https://github.com/user-attachments/assets/6253d498-8f5f-4d0d-b842-36782971dd02)-->
+<img width="2100" height="710" alt="office-pixellated copy2" src="https://github.com/user-attachments/assets/701e010f-5475-4498-9d71-75b838a8b9f3" />
 
 ### Hi there 👋
-- 🔭 I’m currently working in html, css, javascript, sass, tailwind, bootstrap, node.js, gulp and npm
-- 🌱 I’m currently learning react and server-side javascript
-
+- 🔭 I’m currently working in html, css, javascript, react, sass, tailwind, bootstrap, node.js, gulp and npm
+- 🌱 I’m currently learning server-side javascript
+- 🤔 I’m interested in data engineering and previously worked in python and SQL
+- 💬 Ask me about about building your website, e-commerce store, react app or general tech questions
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cee3e8a4-900d-4045-8885-df36f630ea76" />
+ 
 <!--
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
