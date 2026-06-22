@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm Kat
 - 🔭 I’m currently working in html, css, javascript, react, sass, tailwind, bootstrap, node.js, gulp and npm
 - 🌱 I’m currently learning server-side javascript
-- 🤔 I’m interested in data engineering and previously worked in python and SQL
+- 🤔 I’m interested in data, visualization, and UX
 - 💬 Ask me about about building your website, e-commerce store, react app or general tech questions
 - 📚 I enjoy reading, mostly non-fiction, westerns, and dystopian fiction 
  
