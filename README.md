@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning server-side javascript
 - 🤔 I’m interested in data, visualization, and UX
 - 💬 Ask me about about building your website, e-commerce store, react app or general tech questions
-- 📚 I enjoy reading, mostly non-fiction, westerns, and dystopian fiction 
+- 📚 I enjoy reading, especially sci-fi and dystopian fiction
+- 👾 I also love video games, in particular My Singing Monsters
  
 <!--
 **kdinosaur/kdinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
